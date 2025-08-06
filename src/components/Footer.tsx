@@ -72,7 +72,7 @@ const Footer = () => {
               <a href="#" className="text-background/60 hover:text-blue-400 transition-colors">
                 <Facebook className="w-5 h-5" />
               </a>
-              <a href="#" className="text-background/60 hover:text-blue-400 transition-colors">
+              <a href="https://www.instagram.com/upnxt_marketing_agency/" target="_blank" rel="noopener noreferrer" className="text-background/60 hover:text-blue-400 transition-colors">
                 <Instagram className="w-5 h-5" />
               </a>
               <a href="#" className="text-background/60 hover:text-blue-400 transition-colors">
