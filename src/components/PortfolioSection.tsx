@@ -15,10 +15,10 @@ const portfolioItems = [
   },
   {
     id: 2,
-    title: "Mobile App Design",
-    category: "App Development",
+    title: "Modern Web Development",
+    category: "Web Development",
     image: portfolioApp,
-    description: "Modern iOS and Android app with seamless UX"
+    description: "Responsive and modern web applications with cutting-edge technology"
   },
   {
     id: 3,
@@ -26,6 +26,27 @@ const portfolioItems = [
     category: "Graphic Design",
     image: portfolioDesign,
     description: "Complete brand identity and marketing materials"
+  },
+  {
+    id: 4,
+    title: "Cinematography & Film Production",
+    category: "Cinematography",
+    image: portfolioVideo,
+    description: "High-quality cinematography and film production services"
+  },
+  {
+    id: 5,
+    title: "Drone Photography & Videography",
+    category: "Drone Shoot",
+    image: portfolioApp,
+    description: "Stunning aerial shots and drone videography for projects"
+  },
+  {
+    id: 6,
+    title: "Real Estate Marketing",
+    category: "Real Estate",
+    image: portfolioDesign,
+    description: "Complete real estate marketing solutions and property showcases"
   }
 ];
 
